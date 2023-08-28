@@ -2,7 +2,7 @@
 Neural Decoding of Image Classes using fMRI with AlexNet and MLP
 # Neural Decoding of Image Classes using fMRI with AlexNet and MLP
 
-**Authors:** Farnaz Garehdaghi, Medha Shekhar, Taraneh Attary, Reza Tondfekr, Mina Rezaie (project TA), Hazrat Ali (project mentor)
+**Authors:** Reza Tondfekr, Farnaz Garehdaghi, Medha Shekhar, Taraneh Attary 
 
 This project focuses on decoding neural responses using deep learning techniques to understand how the brain represents information. The goal is to predict image identities based on fMRI activations and compare these representations with features from pretrained AlexNet. The project bridges neuroscience and computer vision, potentially aiding image recognition and decoding human brain responses to visual stimuli.
 
